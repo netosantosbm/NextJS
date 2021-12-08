@@ -1,3 +1,3 @@
 export default function () {
-    return " Exemplo de Pages "
+    return " Exemplo Componente "
 }
